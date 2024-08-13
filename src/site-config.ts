@@ -1,102 +1,97 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
-  image: {
-    src: '/hero.jpg',
-    alt: 'Website Main Image',
-  },
-  email: 'kevinwong865@gmail.com',
-  socialLinks: [
-    {
-      text: 'GitHub',
-      href: '',
-      icon: 'i-simple-icons-github',
-      header: 'i-ri-github-line',
+    author: 'Abdeali Jaroli',
+    title: 'Abdeali Jaroli',
+    subtitle: 'Abdeali Jaroli\'s space on the Internet',
+    description: 'Technologist, Entrepreneur, and Product Builder.',
+    image: {
+        src: '/aj.png',
+        alt: 'Abdeali Jaroli',
     },
-    {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
-    },
-    {
-      text: 'Linkedin',
-      href: '',
-      icon: 'i-simple-icons-linkedin',
-    },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
-    },
-    {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
-    },
-  ],
-  header: {
-    logo: {
-      src: '/favicon.svg',
-      alt: 'Logo Image',
-    },
-    navLinks: [
-      {
-        text: 'Blog',
-        href: '/blog',
-      },
-      {
-        text: 'Notes',
-        href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
-      {
-        text: 'Projects',
-        href: '/projects',
-      },
+    email: 'abdeali@jaro.li',
+    socialLinks: [
+        {
+            text: 'GitHub',
+            href: 'https://github.com/abdealijaroli',
+            icon: 'i-simple-icons-github',
+            header: 'i-ri-github-line',
+        },
+        {
+            text: 'Twitter',
+            href: 'https://x.com/abdealijaroli',
+            icon: 'i-simple-icons-x',
+            header: 'i-ri-twitter-x-line',
+        },
+        {
+            text: 'Linkedin',
+            href: 'https://linkedin.com/in/abdealijaroli',
+            icon: 'i-simple-icons-linkedin',
+            header: 'i-ri-linkedin-line',
+        },
     ],
-  },
-  page: {
-    blogLinks: [
-      {
-        text: 'Blog',
-        href: '/blog',
-      },
-      {
-        text: 'Notes',
-        href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
-    ],
-  },
-  footer: {
-    navLinks: [
-      {
-        text: 'Posts Props',
-        href: '/posts-props',
-      },
-      {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
-      },
-    ],
-  },
+    header: {
+        logo: {
+            src: '/aj.png',
+            alt: 'Logo Image',
+        },
+        navLinks: [
+            {
+                text: 'Now',
+                href: '/now',
+            },
+            {
+                text: 'Blog',
+                href: '/blog',
+            },
+            {
+                text: 'Projects',
+                href: '/projects',
+            },
+            // {
+            //     text: 'Notes',
+            //     href: '/blog/notes',
+            // },
+            // {
+            //     text: 'Talks',
+            //     href: '/blog/talks',
+            // },
+        ],
+    },
+    page: {
+        blogLinks: [
+            {
+                text: 'Blog',
+                href: '/blog',
+            },
+            {
+                text: 'Notes',
+                href: '/blog/notes',
+            },
+            {
+                text: 'Talks',
+                href: '/blog/talks',
+            },
+        ],
+    },
+    footer: {
+        navLinks: [
+            // {
+            //     text: 'Posts Props',
+            //     href: '/posts-props',
+            // },
+            // {
+            //     text: 'Markdown Style',
+            //     href: '/md-style',
+            // },
+            // {
+            //     text: 'View on Astro',
+            //     href: '-',
+            // },
+            // {
+            //     text: 'GitHub Repository',
+            //     href: '',
+            // },
+        ],
+    },
 }
 
 export default siteConfig
