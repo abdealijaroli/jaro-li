@@ -22,3 +22,4 @@ But moreover, I am planning a lot of things, which will require a lot of jotting
 I'd say, for myself.
 
 
+![](/blog/the-revamp/happy.jpg)
