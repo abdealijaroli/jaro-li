@@ -29,6 +29,31 @@ html:not(.dark) {
   width: 100%;
   height: 2px;
 }
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-content img {
+  max-width: 100%;
+}
+
+@media (min-width: 640px) {
+  .intro {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .intro .text-content {
+    margin-right: 1rem;
+  }
+  .intro{
+    width: auto;
+  }
+    .image-content img {
+    max-width: 240px;
+  }
+}
 
 img {
   --at-apply: rd-1.5;

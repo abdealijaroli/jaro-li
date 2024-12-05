@@ -8,16 +8,19 @@ import siteConfig from "@/site-config";
         <h1 class="text-title">Abdeali Jaroli</h1>
         <p>Technologist. Product Builder. Aspiring Industrialist.</p>
         <p>
-            <img width="640" height="360" src="/hero2.jpg" alt="Hero Image" />
-        </p>
-        <p>
-            Hey, I'm <b>Abdeali Jaroli</b>.
+            <img
+                width="220"
+                height="160"
+                src="/abdeali.jpeg"
+                alt="Hero Image"
+            />
         </p>
         <p>
             A full-time learner, hobbyist programmer, design perfectionist,
+            aspiring industrialist,
             <a
                 href="https://www.industrialmars.com/posts/factorio-part-1  "
-                target="_blank">factorio irl</a
+                target="_blank"><i>factorio irl</i></a
             >
             believer and world-a-better-place maker (in progress).
         </p>
@@ -26,19 +29,29 @@ import siteConfig from "@/site-config";
                 href="https://www.gsk.com/"
                 target="_blank"
                 class="prose-link">GSK</a
-            >. On weekends, I run my own tech agency, freelance and push side
-            projects to GitHub.
+            >, while my weekends are dedicated to running my own tech agency,
+            freelancing, and bringing passion projects to life on GitHub.
         </p>
         <p>
-            I'm currently based in <b>Bangalore, India</b>.
-        </p>
-        <p>
-            When I'm not working, you will most likely find me running, watching
-            Suits, or sipping tea (my fav of 'em all).
+            Based in <b>Bangalore, India</b>, I thrive at the intersection of
+            innovation and creativity. When I’m not working, you’ll likely find
+            me running, bingeing <i>Suits</i>, or savoring a cup of tea — the
+            undisputed highlight of my day.
         </p>
         <hr class="hr-line" />
-        <p>Find me on</p>
+        <p>
+            Cool email, right?
+            <a
+                prose-link
+                aria-label={siteConfig.email}
+                href={`mailto:${siteConfig.email}`}
+            >
+                {siteConfig.email}
+            </a>. Use it! Tech talk, wild ideas, or just to say hi. Don't be a
+            stranger!
+        </p>
         <p class="flex gap-x-4 gap-y-2 flex-wrap">
+            Also, find me on:
             {
                 siteConfig.socialLinks.map((link) => (
                     <a
@@ -53,15 +66,9 @@ import siteConfig from "@/site-config";
                 ))
             }
         </p>
+        <hr class="hr-line" />
         <p>
-            Got to admit, that's a pretty cool email address
-            <a
-                prose-link
-                aria-label={siteConfig.email}
-                href={`mailto:${siteConfig.email}`}
-            >
-                {siteConfig.email}
-            </a>.
+            <img width="440" height="160" src="/hero2.jpg" alt="Wisdom" />
         </p>
     </article>
 </BaseLayout>
