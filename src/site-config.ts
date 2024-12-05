@@ -4,7 +4,7 @@ export const siteConfig = {
     subtitle: 'Abdeali Jaroli\'s space on the Internet',
     description: 'Technologist, Entrepreneur, and Product Builder.',
     image: {
-        src: '/aj.png',
+        src: '/abdeali.jpeg',
         alt: 'Abdeali Jaroli',
     },
     email: 'abdeali@jaro.li',
