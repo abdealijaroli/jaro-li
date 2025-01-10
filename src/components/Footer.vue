@@ -34,7 +34,7 @@ import { getLinkTarget } from "@/utils/link";
                 </span>
             </template>
         </div>
-        <div flex> 
+        <div flex>
             <span op-70
                 >&copy;&nbsp;&nbsp;{{ new Date().getFullYear() }}&nbsp;&nbsp;{{
                     siteConfig.author
