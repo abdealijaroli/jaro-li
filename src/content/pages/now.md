@@ -3,28 +3,23 @@ title: Now
 description: What I'm currently working on and focusing on.
 ---
 
-## What I'm Doing Now 🛠️
+This is my "now" page, inspired by [Derek Sivers](https://nownownow.com/about). A "now" page is a snapshot of your current focus and priorities.
 
-This is my "now" page, inspired by [Derek Sivers](https://nownownow.com/about). A "now" page is a snapshot of your current focus and activities. It's more than just a status update — it's a public declaration of your priorities and values. If you have a personal site, consider adding one! It serves as both a personal compass and a way to share your journey with others.
+### What am I upto?
 
-### What am I upto? 🦄
+- Leading an AI project in the Cyber Security function at [GSK](https://gsk.com).
+- Building [Jaro Labs](https://jarolabs.com), my tech studio, slowly and tastefully.
+- Contributing to open-source. Currently, [FlexPrice](https://github.com/flexprice).
+- Dabbling with robots and hardware. I've always been fascinated with deep tech and this is exactly what I plan to do with Jaro Labs.
 
-- Building secure and scalable tech at [GSK](https://gsk.com).
-- Developing [Jaro](https://jaroli.me), my long-awaited project.
-- Updating this site, [jaro.li](https://jaro.li).
-- Working on my tech agency and contract projects on the weekend.
-- Pushing my side projects to GitHub.
-- Improving my backend arc, mostly with Golang.
-- On the side, exploring System Design, Rust, Security, and Cloud at scale.
-
-### Some goals I've set for myself 🥅
+### Some goals I've set for myself
 
 - Create something that addresses a genuine problem. It need not be a SaaS, not even remotely tech-related, but something that adds value to every soul involved in the process, from creation to utilization, of that <i>something</i>. 
 - Be an engineer at heart. Asking more why(s) behind everything. 
-- Elevate my expertise in backend engineering at scale.<br><br><br>
+- Embrace the <i>[leve-leve](https://medium.com/gain-indpiration/the-leve-leve-lifestyle-of-s%C3%A3o-tom%C3%A9-and-pr%C3%ADncipe-f5f9f6712289)</i> lifestyle.<br><br><br>
 
 
 
-<i><b>Balance</b> is the key to everything.</i>
+<b>Balance</b> is the key to everything.
 
-Last updated: 15th August, 2024
+Last updated: 8th August, 2025
