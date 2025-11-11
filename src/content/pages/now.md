@@ -7,7 +7,7 @@ This is my "now" page, inspired by [Derek Sivers](https://nownownow.com/about). 
 
 ### What am I upto?
 
-- Leading an AI project in the Cyber Security function at [GSK](https://gsk.com).
+- Leading an AI project for the Cyber Security function at [GSK](https://gsk.com).
 - Building [Jaro Labs](https://jarolabs.com), my tech studio, slowly and tastefully.
 - Contributing to open-source. Currently, [FlexPrice](https://github.com/flexprice).
 - Dabbling with robots and hardware. I've always been fascinated with deep tech and this is exactly what I plan to do with Jaro Labs.
@@ -22,4 +22,4 @@ This is my "now" page, inspired by [Derek Sivers](https://nownownow.com/about). 
 
 <b>Balance</b> is the key to everything.
 
-Last updated: 8th August, 2025
+Last updated: 11th November, 2025
